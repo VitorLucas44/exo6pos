@@ -1,0 +1,46 @@
+.c1{
+    width: 100px;
+    height: 200px;
+    background-color: orange;
+    justify-content: center;
+  
+    
+}
+.c2{
+    width: 500px;
+    height: 200px;
+    background-color: orange;
+    align-items: center;
+    justify-content: center;
+    
+}
+.c3{
+    width: 500px;
+    height: 200px;
+    background-color: orange;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.c4{
+    width: 500px;
+    height: 200px;
+    background-color: orange;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+div{
+    margin: 5px;
+    display: flex;
+}
+body{
+    background-color: bisque;
+}
+p{
+    padding: 10px;
+    margin: 10px;
+}
