@@ -3,6 +3,9 @@
     height: 200px;
     background-color: orange;
     justify-content: center;
+    position: relative;
+    top: 250px;
+
   
     
 }
@@ -12,6 +15,9 @@
     background-color: orange;
     align-items: center;
     justify-content: center;
+    position: relative;
+    top: 250px;
+
     
 }
 .c3{
@@ -20,6 +26,9 @@
     background-color: orange;
     align-items: center;
     justify-content: center;
+    position: relative;
+    top: 250px;
+
 
     
 }
@@ -29,6 +38,8 @@
     background-color: orange;
     align-items: center;
     justify-content: center;
+    position: relative;
+    top: 250px;
 
     
 }
@@ -39,6 +50,7 @@ div{
 }
 body{
     background-color: bisque;
+
 }
 p{
     padding: 10px;
